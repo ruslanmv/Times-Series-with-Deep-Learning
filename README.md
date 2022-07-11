@@ -1445,8 +1445,6 @@ fig3.show()
 
 ![](assets/images/posts/README/newplot.png)
 
-You can download the notebook here
-
-
+You can download the notebook [here](https://github.com/ruslanmv/Times-Series-with-Deep-Learning/blob/master/Forecast-of-Natural-Gas-Price-with-Deep-Learning.ipynb) .
 
 **Congratulations!** We have created a Neural Network by using LST and we have predict the Natural Gas for one week.
